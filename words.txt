@@ -1,0 +1,39 @@
+lovable: amicable
+everywhere: ubiquitous
+really: genuinely, most certainly
+eat: consume, digest
+small: diminutive
+little: diminutive
+bad: egrigious
+hi: greetings, salutations
+walk: stroll
+good: superlative
+acceptable: cromulent
+elegant: leggiadrous
+improvement: amelioration
+split: bifurcate
+predict: prognosticate
+careful: perspicacious
+hide[VERB]: obfuscate
+start[NOUN]: commencement
+reveal: disclose
+speed: celerity
+fair: equitable
+use[NOUN]: implementation
+effective: expeditious
+obscure: recondite
+origin: provenance
+diverse: multifarious
+spit: expectorate
+therefore: ergo
+hairstyle: coiffure
+promising: propitious
+hopeful: propitious
+many: a plethora of
+great: splendiferous
+huge: gargantuan
+horrible: abominable
+attacker: assailant
+bitterness: rancor
+indescribable: ineffible
+storyteller: raconteur

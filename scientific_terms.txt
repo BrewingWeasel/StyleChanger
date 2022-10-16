@@ -1,0 +1,222 @@
+Achatina - Snail
+Acinonyx Jubatus - Cheetah
+Actinopterygii - Ray-finned fishes
+Aegypius Monachus - Vulture
+Aepyceros Melampus - Impala
+Agalychnis callidryas - Red-eyed tree frog
+Ailuropoda melanoleuca - Giant panda
+Alces americanus - American moose
+Amblyrhynchus cristatus - Marine iguana
+Amphibia - Amphibians
+Anser indicus - Bar-headed goose
+Anseriformes - Waterfowl
+Antilocapra americana - Pronghorn
+Anura - Frogs and toads
+Aplysia californica - California sea hare
+Archilochus colubris - Ruby-throated hummingbird
+Arthropoda - Arthropoods
+Artiodactyla - Even-toed ungulates
+Aves - Birds
+Baeolophus Bicolor to Bufo Bufo
+
+Baeolophus bicolor - Tufted titmouse
+Balaeniceps rex - Shoebill
+Balaenoptera musculus - Blue whale
+Batoidea - Skates and rays
+Bison bison - American bison
+Blattaria - Cockroach
+Bombus - Bumble Bee
+Bos Taurus - Highland Cattle
+Brachyura - Crab
+Branta canadensis - Canada goose
+Branta sandvicensis - Nene goose
+Bufo bufo - European common toad
+Caelifera to Cyclura Cornuta
+
+Caelifera - Grasshopper
+Campephilus principalis - Ivory-billed woodpecker
+Canidae - Canids
+Canis lupus arctos - Arctic wolf
+Capra Aegagrus Hircus - Goat
+Caracal caracal - Caracal
+Carcharodon carcharias - Great white shark
+Caretta caretta - Loggerhead turtle
+Carnivora - Carnivores
+Castor canadensis - American beaver
+Cavia Porcellus - Guinea pig
+Cepphus columba - Pigeon guillemot
+Ceratotherium simum - White rhinoceros
+Cetacea - Cetaceans
+Chelonia - Turtles and tortoises
+Chelonia mydas - Green sea turtle
+Chiroptera - Bats
+Chondrichthyes - Cartilaginous fishes
+Chordata - Chordates
+Cichlidae - Cichlids
+Ciconiiformes - Herons, storks, ibises and spoonbills
+Cnidaria - Cnidaria
+Conolophus subcristatus - Galapagos land iguana
+Crocodilia - Crocodilians
+Cyclura cornuta - Rhinoceros iguana
+Danaus Plexippus to Dugong Dugong
+
+Danaus plexippus - Monarch butterfly
+Dasyatis Centroura - Stingray
+Dasypus novemcinctus - Nine-banded armadillo
+Daubentonia madagascariensis - Aye-aye
+Delphinus delphis - Common dolphin
+Dendrobates auratus - Green poison dart frog
+Dermochelys coriacea - Leatherback sea turtle
+Didelphis Virginiana - Oppossum
+Diceros bicornis - Black rhinoceros
+Diomedea exulans - Wandering albatross
+Dugong dugong - Dugong
+Echinodermata to Eudocimus Ruber
+
+Echinodermata - Echinoderms
+Elasmobranchii - Sharks, skates and rays
+Electrophorus Electricus - Electric eel
+Elephas maximus - Asiatic elephant
+Equus asinus somalicus - Somali wild ass
+Equus burchellii - Burchell's zebra
+Equus caballus przewalskii - Przewalski's wild horse
+Eretmochelys imbricata - Hawksbill sea turtle
+Erithacus rubecula - European robin
+Erethizon Dorsaum - Porcupine
+Eschrichtius robustus - Gray whale
+Eudocimus ruber - Scarlet ibis
+Falconiformes to Fregatidae
+
+Falconiformes - Birds of prey
+Felidae - Cats
+Felis Concolor - Puma
+Fratercula arctica - Atlantic puffin
+Fregatidae - Frigatebirds
+Galeocerdo Cuvier to Gymnophiona
+
+Galeocerdo Cuvier - Tiger Shark
+Gallus Gallus - Chicken
+Gastropoda - Gastropods, slugs and snails
+Gavialis gangeticus - Gavial
+Geochelone nigra - Galapagos tortoise
+Giraffa camelopardalis - Giraffe
+Gorilla gorilla - Gorilla
+Gymnophiona - Caecilians
+Heloderma Suspectum to Hyperoodon Ampullatus
+
+Heloderma Suspectum - Gila monster
+Helogale Parvula - Mongoose
+Hippopotamus amphibus - Hippopotamus
+Homo neanderthalensis - Neandertal
+Hyaenidae - Hyenas
+Hyperoodon ampullatus - Northern bottlenose whale
+Iguana to Isoptera
+
+Iguana Iguana - Iguana
+Indri Indri - Inrdi
+Insecta - Insects
+Isoptera - Termite
+Lagenorhynchus Acutus to Lynx Rufus
+
+Lagenorhynchus acutus - Atlantic white-sided dolphin
+Lagenorhynchus obscurus - Dusky dolphin
+Lagomorpha - Hares, rabbits and pikas
+Loxodonta africana - African elephant
+Lynx lynx - Eurasian lynx
+Lynx rufus - Bobcat
+Mammalia to Myrmecophaga Tridactyla
+
+Mammalia - Mammals
+Marsupialia - Marsupials
+Meles meles - European badger
+Mephitidae - Skunks and stink badgers
+Metazoa - Animals
+Microlophus albemarlensis - Lava lizard
+Mollusca - Mollusks
+Morus bassanus - Northern gannet
+Mustela nigripes - Black-footed ferret
+Mustelidae - Mustelids
+Myrmecophaga tridactyla - Giant anteater
+Orcaella Brevirostris to Ornithorhynchus Anatinus
+
+Orcaella brevirostris - Irrawaddy dolphin
+Orcinus orca - Orca
+Octopus vugaris - Octopus
+Odobenus Rosmarus - Walrus
+Odocoileus Virginiana - Deer
+Ornithorhynchus Anatinus - Platypus
+Panthera Leo to Pygoscelis Adeliae
+
+Panthera leo - Lion
+Panthera onca - Panther
+Panthera pardus - Leopard
+Panthera pardus orientalis - Amur leopard
+Panthera tigris - Tiger
+Panthera tigris altaica - Siberian tiger
+Panthera uncia - Snow leopard
+Pelicaniformes - Pelicans and relatives
+Perissodactyla - Odd-toed ungulates
+Phascolarctos cinereus - Koala
+Phoca vitulina - Common seal
+Phoenicopterus ruber - Greater flamingo
+Platalea ajaja - Roseate spoonbill
+Pongo pygmaeus - Bornean orangutan
+Porifera - Sponges
+Proboscidea - Elephants
+Propithecus tattersalli - Golden-crowned sifaka
+Pterois volitans - Firefish or lionfish
+Pteropus rodricensis - Rodriguez flying fox
+Puma concolor - Mountain Lion
+Pygoscelis adeliae - Adélie penguin
+Ramphastos Sulfuratus to Rodentia
+
+Ramphastos Sulfuratus - Keel-billed toucan
+Rana Catesbeiana - Bullfrog
+Rangifer tarandus - Caribou
+Raphus Cucullatus - Dodo
+Reptilia - Reptiles
+Rhincodon typus - Whale shark
+Rodentia - Rodents
+Sarcopterygii to Suricata Suricatta
+
+Sarcopterygii - Lobe-finned fishes
+Scyphozoa - Jellyfish
+Sphenisciformes - Penguins
+Sphenodontida - Tuataras
+Sphyrnidae - Hammerhead sharks
+Squamata - Amphisbaenians, lizards and snakes
+Strigiformes - Owls
+Struthio camelus - Ostrich
+Suidae - Pigs
+Sula nebouxii - Blue-footed booby
+Suricata suricatta - Meerkat
+Tamandua Tetradactyla to Tytonidae
+
+Tamandua tetradactyla - Southern tamandua
+Tamias Striatus - Chipmunk
+Tapiridae - Tapirs
+Tinamiformes - Tinamous
+Tragelaphus oryx - Eland antelope
+Tremarctos ornatus - Spectacled bear
+Trichechus - Manatees
+Trochilidae - Hummingbirds
+Tursiops truncatus - Bottlenose dolphin
+Tytonidae - Barn owls
+Urochordata to Ursus Maritimus
+
+Urochordata - Sea squirt
+Uroplatus - Leaf-tailed gecko
+Ursus Americanus - American black bear
+Ursus Arctos - Brown bear
+Ursus Maritimus - Polar bear
+Varanus Indicus to Vulpes Vulpes
+
+Varanus Indicus - Monitor lizard
+Varanus komodoensis - Komodo dragon
+Vespa Mandarinia - Asian giant hornet
+Vombatus Ursinus - Wombat
+Vulpes vulpes - Red fox
+Xenarthra to Xenopus Laevis
+
+Xenarthra - Xenarthrans
+Xenopus Laevis - African clawed frog 
