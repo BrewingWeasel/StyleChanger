@@ -50,7 +50,7 @@ def _morph_replace(text: String, token, word2: String):
         for morph_type in MORPHOLOGY:
             try:
                 word2 = MORPHOLOGY[morph_type][morph.get(morph_type)[0]](word2)
-            except IndexError:
+            except (IndexError, KeyError):
                 pass
     else:
         word2 = _conjugator(token, word2)
@@ -58,7 +58,7 @@ def _morph_replace(text: String, token, word2: String):
     return text.replace(token.text, word2)
 
 
-def smartify(text: String):
+def pompous(text: String):
     """Returns a pretentious version of the inputted text."""
     doc = nlp(text)
     new_text = text
@@ -69,12 +69,10 @@ def smartify(text: String):
             is_wrong_form_noun = token.lemma_ in nouns and token.pos_ != "NOUN"
             if is_wrong_form_verb or is_wrong_form_noun:
                 continue
-            print(token.text)
             new_text = _morph_replace(
                 new_text, token, random.choice(words[token.lemma_])
             )
 
     return new_text
 
-
-print(smartify("I'm feeling really hungry right now, I think I'll eat some carrots."))
+print(pompous("I am really hopeful that this text transformation goes well. Even if it only changes a small amount, that would be great."))
